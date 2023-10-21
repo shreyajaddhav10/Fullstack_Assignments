@@ -1,0 +1,19 @@
+.container
+{
+ height: 900;
+ width: 100%;
+ background-color: rgb(238, 229, 229);
+}
+#navbar
+{
+    height: 50px;
+    width:100%;
+    background-color:white;
+    float: left;
+}
+
+.pad
+{
+    padding-left: 50%;
+    float: left;
+}
