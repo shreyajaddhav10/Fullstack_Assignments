@@ -1,1 +1,7 @@
-
+.nav
+      {
+        background-image:url('img/header-image.png');
+        height: 700px;
+        width: 100%;
+      }
+  
