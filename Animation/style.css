@@ -1,0 +1,72 @@
+
+body{
+    height:800px;
+    background: url(images/room.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+#img-dt{
+        position: fixed;
+        left: 650px;
+        top: 360px;
+        animation-duration: 2s !important;
+        animation-delay: 0s !important;
+      
+}
+#img-f{
+    position: fixed;
+    left: 40px;
+    top: 300px;
+    animation-duration: 2s !important;
+    animation-delay: 1s !important;
+}
+#img-tp
+{
+
+position: fixed;
+    left: 420px;
+    top: 480px;
+    animation-duration: 2s !important;
+    animation-delay: 3s !important;
+}
+#img-tl
+{
+    position: fixed;
+    left: 200px;
+    top: 440px;
+    animation-duration: 2s !important;
+    animation-delay: 2s !important;
+}
+#img-s
+{
+    position: absolute;
+    left: 1040px;
+    top: 580px;  
+    animation-duration: 2s !important;
+    animation-delay: 5s !important;
+}
+#img-b
+{
+    position: absolute;
+    z-index: 1;
+    left: 1060px;
+    top: 540px;
+    animation-duration: 1s !important;
+    animation-delay: 6s !important;  
+}
+#img-c
+{
+    position: fixed;
+    left: 1200px;
+    top: 120px;  
+    animation-duration: 2s !important;
+    animation-delay: 4s !important;
+}
+
+@keyframes mymove {
+
+    
+} 
