@@ -1,7 +1,7 @@
 
 body{
     height:800px;
-    background: url(images/room.jpg) no-repeat center center fixed; 
+    background: url(room.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
